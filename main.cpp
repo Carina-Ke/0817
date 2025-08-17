@@ -60,7 +60,6 @@ int main() {
     cout << endl;
     printVectorDecs(numbers2);
 
-
     string name("kkk");
     string name2 = name;
     string name3 = "abc";
